@@ -1,0 +1,109 @@
+.admin-room {
+  &__header {
+    padding: 24px;
+    border-bottom: 1px solid #e2e2e2;
+  }
+
+  &__content {
+    max-width: 1120px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  &__logo {
+    max-height: 45px;
+    cursor: pointer;
+  }
+
+  &__main {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+
+  &__buttons {
+    display: flex;
+    gap: 16px;
+  }
+
+  &__tag-questions {
+    margin-left: 16px;
+    background-color: #e559f9;
+    border-radius: 999px;
+    padding: 8px 16px;
+    color: #fff;
+    font-weight: 500;
+    font-size: 14px;      
+  }
+
+  &__title {
+    margin: 32px 0 24px;
+    display: flex;
+    align-items: center;
+  }
+
+  &__title-text {
+    font-family: 'Poppins', sans-serif;
+    font-size: 24px;
+    color: #29292e;
+  }
+
+  &__question {
+    width: 100%;
+    border: 0;
+    padding: 16px;
+    border-radius: 8px;
+    background-color: #fefefe;
+    box-shadow: 0 2px 12px rgba(0,0,0,0.04);
+    resize: vertical;
+    min-height: 130px;
+  }
+
+  &__user-info {
+    display: flex;
+    align-items: center;
+  }
+
+  &__avatar {
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+  }
+
+  &__username {
+    margin-left: 8px;
+    font-size: 14px;
+    color: #29292e;
+    font-weight: 500;
+  }
+
+  &__login {
+    font-size: 14px;
+    margin-left: 5px;
+  }
+
+
+  &__question-list {
+    margin-top: 40px;
+  }
+
+  &__btn-action {
+    background-color: transparent;
+    border: none;
+  }
+
+  &__message {
+    border: 3px solid #969696;
+    height: 300px;
+    border-radius: 8px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  &__message-text {
+    font-size: 24px;
+  }
+}

@@ -2,7 +2,7 @@
 
 <h2>Login</h2>
 <div align="center">
-    <img alt="Imagem da tela de login" src="./public/login.png" />
+    <img alt="Imagem da tela de login" src="https://github.com/hbleao/Letmeask/blob/master/public/assets/login.png" />
 </div>
 
 
@@ -10,7 +10,7 @@
 
 <h2>Criação de nova sala</h2>
 <div align="center">
-    <img alt="Imagem da tela de criação de sala" src="./public/newRoom.png" />
+    <img alt="Imagem da tela de criação de sala" src="https://github.com/hbleao/Letmeask/blob/master/public/assets/newRoom.png" />
 </div>
 
 <br>
@@ -64,26 +64,6 @@ REACT_APP_APP_ID=
 
 <br>
 
-
 ## 💻 Projeto
 
 Letmeask é perfeito para criadores de conteúdos poderem criar salas de Q&A com o seu público, de uma forma muito organizada e democrática. 
-
-Este é um projeto desenvolvido durante a **[Next Level Week Together](https://nextlevelweek.com/)**, apresentada dos dias 20 a 27 de Junho de 2021.
-
-
-## 🔖 Layout
-
-Você pode visualizar o layout do projeto através do link abaixo:
-
-- [Layout Web](https://www.figma.com/community/file/1009824839797878169/Letmeask) 
-
-Lembrando que você precisa ter uma conta no [Figma](http://figma.com/).
-
-## 📝 License
-
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
-
----
-
-Feito com 💜 by Rocketseat 👋🏻 [Participe da nossa comunidade](https://discord.gg/gKUVrzrPrU)# Letmeask
